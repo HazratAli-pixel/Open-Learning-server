@@ -1,7 +1,8 @@
 const express = require('express');
 const app = express();
-const bundleCourseRuter = require("./routes/bundleCourse.route");
+const bundleCourseRouter = require("./routes/bundleCourse.route");
 const courseRouter = require("./routes/course.route");
+const categoryRouter = require("./routes/category.route");
 const cors = require("cors");
 
 
@@ -12,8 +13,9 @@ app.use(express.urlencoded({extended:true}));
 app.use(express.json());
 
 
-app.use ('/bundle', bundleCourseRuter);
+app.use ('/bundle', bundleCourseRouter);
 app.use ('/course', courseRouter);
+app.use ('/category', categoryRouter);
 
 
 app.get ('/', (req, res, next)=>{
