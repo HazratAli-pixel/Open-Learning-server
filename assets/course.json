@@ -6,7 +6,8 @@
     "duration": 61,
     "imgUrl": "https://drive.google.com/file/d/1gBLdfOIFfSeflCVN55itsAZnP3aGxWEs/view?usp=sharing",
     "price": 350,
-    "students": 2
+    "students": 2,
+    "category_name": 5
   },
   {
     "_id": 2,
@@ -15,7 +16,8 @@
     "duration": 222,
     "imgUrl": "https://drive.google.com/file/d/1x9jCo-wQ80CREusFl6dHML8UuVww5-oV/view?usp=sharing",
     "price": 600,
-    "students": 95
+    "students": 95,
+    "category_name": 7
   },
   {
     "_id": 3,
@@ -24,7 +26,8 @@
     "duration": 28,
     "imgUrl": "https://drive.google.com/file/d/1bfJiutUQN63nQ7g_xmDwkCmwfPOMx4pK/view?usp=sharing",
     "price": 350,
-    "students": 1
+    "students": 1,
+    "category_name": 7
   },
   {
     "_id": 4,
@@ -33,7 +36,8 @@
     "duration": 125,
     "imgUrl": "https://drive.google.com/file/d/17LWFCsTJvGEDreOqyeV4K6nncMuZEn1T/view?usp=sharing",
     "price": 300,
-    "students": 13
+    "students": 13,
+    "category_name": 5
   },
   {
     "_id": 5,
@@ -42,7 +46,8 @@
     "duration": 29,
     "imgUrl": "https://drive.google.com/file/d/1gCF7o6RQ01qIxdUa3dIUjjYbkRTLkQxv/view?usp=sharing",
     "price": "Free",
-    "students": 1209
+    "students": 1209,
+    "category_name": 5
   },
   {
     "_id": 6,
@@ -51,7 +56,8 @@
     "duration": 106,
     "imgUrl": "https://drive.google.com/file/d/11ZLVcj7hEFiwsASWxZlAmp2w9Dlkhu2A/view?usp=sharing",
     "price": 350,
-    "students": 54
+    "students": 54,
+    "category_name": 8
   },
   {
     "_id": 7,
@@ -60,7 +66,8 @@
     "duration": 72,
     "imgUrl": "https://drive.google.com/file/d/1oIXrTCzg0_mB_F6HsHzfy3ee2okfcUtU/view?usp=sharing",
     "price": 450,
-    "students": 42
+    "students": 42,
+    "category_name": 5
   },
   {
     "_id": 8,
@@ -69,7 +76,8 @@
     "duration": 77,
     "imgUrl": "https://drive.google.com/file/d/1_tBI524Or288DKN6W3BnTv7A2N9eUVrD/view?usp=sharing",
     "price": 350,
-    "students": 9
+    "students": 9,
+    "category_name": 2
   },
   {
     "_id": 9,
@@ -78,6 +86,7 @@
     "duration": 103,
     "imgUrl": "https://drive.google.com/file/d/1_tBI524Or288DKN6W3BnTv7A2N9eUVrD/view?usp=sharing",
     "price": 350,
-    "students": 60
+    "students": 60,
+    "category_name": 3
   }
 ]

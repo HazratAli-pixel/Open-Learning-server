@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1,
+    "category_name": "Graphics Desing"
+  },
+  {
+    "_id": 2,
+    "category_name": "Web Design"
+  },
+  {
+    "_id": 3,
+    "category_name": "Photography"
+  },
+  {
+    "_id": 4,
+    "category_name": "Data Entry"
+  },
+  {
+    "_id": 5,
+    "category_name": "English Learning"
+  },
+  {
+    "_id": 6,
+    "category_name": "IELTS"
+  },
+  {
+    "_id": 7,
+    "category_name": "Digital Marketing"
+  },
+  {
+    "_id": 8,
+    "category_name": "Others"
+  }
+]
