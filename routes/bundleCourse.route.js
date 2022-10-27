@@ -4,7 +4,7 @@ const { BundleCourseALlDetails, singleCourseDetails } = require('../controllers/
 
 
 router.get('/', BundleCourseALlDetails);
-router.get('/:id([0-9]+)', singleCourseDetails);
+router.get('/:id', singleCourseDetails);
 
 
 
